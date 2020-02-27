@@ -1,0 +1,7 @@
+name: EusWarp
+version: ${project.version}
+main: cc.eumc.euswarp.EusWarp
+api-version: 1.13
+softdepend: [Vault]
+authors: [EucalyptusLeaves]
+website: www.eumc.cc
